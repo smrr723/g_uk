@@ -8,6 +8,5 @@ def palindrome?(string)
   end
 end
 
-
 palindrome?("Hello")
 palindrome?("Anna")
